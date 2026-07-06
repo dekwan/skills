@@ -1,0 +1,10 @@
+{
+  "name": "google-cloud-core",
+  "version": "0.0.1",
+  "description": "",
+  "author": {
+    "name": "Google"
+  },
+  "repository": "https://github.com/dekwan/skills",
+  "skills": "./skills/"
+}
